@@ -49,4 +49,4 @@ Project is: _complete_.
 
 
 ## Room for Improvement
-- ANN improvement
+- GUI or CLI visualization
