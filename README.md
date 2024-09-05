@@ -41,6 +41,7 @@
 ### [Bagian 4] Reinforcement Learning
 
 [v] Q-Learning
+
 [v] SARSA
 
 
