@@ -1,5 +1,5 @@
-# Seleksi GAIB 2024 Bagian 4 (Reinforcement Learning)
-> Steven Tjhia - 13522103
+# Reinforcement Learning from Scratch
+> Steven Tjhia
 
 
 ## Table of Contents
@@ -13,7 +13,7 @@
 
 
 ## General Information
-- This project aims to fulfill GAIB Lab Assistant selection.
+- This project aims to grasp a deeper understanding of several Reinforcement Learning techniques such as Q-Learning and SARSA.
 
 
 ## Technologies Used
